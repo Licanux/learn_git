@@ -1,3 +1,6 @@
-#include <stdio.h>
+#ifndef _A_H
+#define _A_H
 
-int main(void)
+extern int a;
+
+#endif /* ifndef _A_H */
